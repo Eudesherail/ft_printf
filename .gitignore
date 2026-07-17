@@ -1,0 +1,4 @@
+*.o
+libftprintf.a
+tests/test_printf
+.DS_Store
